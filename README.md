@@ -13,7 +13,7 @@ I love designing clean APIs, automating delivery, and learning cloud patterns.
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Java (17+), SQL  
+- **Languages:** Java (17+), SQL, Python, Node jS
 - **Frameworks:** Spring Boot, Spring Web, Spring Data JPA, Spring Validation, Spring Cloud (Gateway, Config, Eureka)  
 - **Messaging & Observability:** Apache Kafka, Micrometer/Brave, Zipkin, Spring Boot Actuator  
 - **Databases:** MySQL, PostgreSQL, Flyway  
