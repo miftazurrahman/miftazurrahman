@@ -50,7 +50,7 @@ and HackTheBox, with a focus on web application and API security.
 A deliberately vulnerable REST API built using production-style Spring Boot 
 architecture, designed to demonstrate and document common API vulnerabilities 
 including JWT flaws, IDOR, and SQL injection.
-`github.com/miftazurrahman/vulnerable-spring-api`
+owasp-juiceshop-pentest-report
 
 **CTF Writeups**
 Documented walkthroughs of TryHackMe and HackTheBox machines, with emphasis 
