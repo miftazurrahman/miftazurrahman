@@ -1,54 +1,83 @@
-# Hi, I'm Mir Miftazur Rahman 👋
+# Mir Miftazur Rahman
 
-**Java Backend Developer** focused on building scalable, testable services with **Spring Boot**, **Microservices**, **Kafka**, **Docker**, and **SQL**.  
-I love designing clean APIs, automating delivery, and learning cloud patterns.
+**Junior Penetration Tester | Application Security Enthusiast**
 
-- 🔭 Currently building: microservice architectures (Gateway, Config, Eureka), event-driven flows with Kafka
-- 🌱 Learning: Spring Cloud, Docker Compose, CI/CD (GitHub Actions), containerized DBs (MySQL/PostgreSQL)
-- 🧩 Problem solving: [LeetCode](https://leetcode.com/u/Mir_Miftazur_Rahman/)
-- 💬 Ask me about: REST design, JPA/Hibernate, database migrations (Flyway), tracing/metrics (Actuator, Zipkin)
-- 📰 Fun fact: I manage a tech news website & love chess♟️
-- 📫 Reach me: **miftazurrahman@gmail.com**
+Backend engineer transitioning into offensive security, with hands-on experience 
+building the systems attackers commonly target — REST APIs, microservices, 
+message queues, and relational databases. This background provides practical 
+insight into how authentication, data validation, and service-to-service 
+communication are implemented, and where they typically fail.
 
----
+**Currently:** Developing practical penetration testing skills through TryHackMe 
+and HackTheBox, with a focus on web application and API security.
 
-### 🛠️ Tech Stack
-- **Languages:** Java (17+), SQL, Python, Node jS
-- **Frameworks:** Spring Boot, Spring Web, Spring Data JPA, Spring Validation, Spring Cloud (Gateway, Config, Eureka)  
-- **Messaging & Observability:** Apache Kafka, Micrometer/Brave, Zipkin, Spring Boot Actuator  
-- **Databases:** MySQL, PostgreSQL, Flyway  
-- **DevOps & Tools:** Docker, Docker Compose, Maven, Git/GitHub, IntelliJ IDEA, Postman  
-- **Testing:** JUnit (Mockito basics)  
+**Certification goal:** eJPT, working toward OSCP.
+
+**Contact:** miftazurrahman@gmail.com
 
 ---
 
-### 📦 Featured Projects
-- **E-commerce Microservices (Java/Spring Boot/Kafka/Docker)**  
-  Gateway · Config · Eureka · Product/Order/Payment services · Tracing + metrics · DB migrations  
-  _Repo:_ `https://github.com/<your-username>/ecommerce-microservices`  
+## Technical Skills
 
-- **Ambulance Tracking Backend (Spring Boot, JPA, MySQL)**  
-  Entities, REST CRUD, (optional) auth & real-time updates  
-  _Repo:_ `https://github.com/<your-username>/ambulance-tracking`
+**Security Testing**
+- Web application testing: Burp Suite, OWASP ZAP
+- Database security: SQLmap, manual SQL injection testing
+- Reconnaissance: Nmap, Gobuster, Amass
+- Exploitation fundamentals: Metasploit
 
-> Replace `<your-username>` and add real repo links. Pin them on your profile for visibility.
+**Application Security Focus Areas**
+- Authentication and session vulnerabilities (JWT misconfigurations, weak token handling)
+- Injection vulnerabilities (SQL, NoSQL) informed by hands-on ORM/database experience
+- Insecure deserialization and input validation flaws
+- API and microservice misconfigurations (gateway routing, service-to-service auth)
+- Container security basics (Docker misconfigurations, exposed secrets)
+
+**Software Engineering Background**
+- Languages: Java, Python, Bash, SQL
+- Frameworks: Spring Boot, Spring Cloud, Spring Data JPA
+- Infrastructure: Docker, Apache Kafka, MySQL, PostgreSQL
+- This background provides a working understanding of correct system 
+  design, which directly informs how I identify deviations and vulnerabilities.
+
+**Platforms**
+- TryHackMe, HackTheBox, PortSwigger Web Security Academy
 
 ---
 
-### 🚀 What I care about
-- Clean architecture, small services, clear contracts (OpenAPI/Swagger)
-- Production-minded dev: observability, idempotency, retries, backoff
-- CI/CD, containerization, and reproducible local setups
+## Featured Projects
+
+**Vulnerable Spring Boot API**
+A deliberately vulnerable REST API built using production-style Spring Boot 
+architecture, designed to demonstrate and document common API vulnerabilities 
+including JWT flaws, IDOR, and SQL injection.
+`github.com/miftazurrahman/vulnerable-spring-api`
+
+**CTF Writeups**
+Documented walkthroughs of TryHackMe and HackTheBox machines, with emphasis 
+on web application and API exploitation techniques.
+`github.com/miftazurrahman/ctf-writeups`
+
+**API Reconnaissance Tool**
+A Python-based tool for enumerating API endpoints and identifying common 
+misconfigurations.
+`github.com/miftazurrahman/api-recon-tool`
+
 
 ---
 
-### 📈 Problem Solving & Profiles
-- LeetCode: https://leetcode.com/u/Mir_Miftazur_Rahman/
-- GitHub: https://github.com/<your-username>
+## Approach
+
+- Rigorous, methodical testing grounded in an understanding of how systems 
+  are actually built
+- Clear, developer-oriented vulnerability reporting — findings written the 
+  way an engineering team can act on them
+- Continuous, structured learning through certification study and applied 
+  practice
 
 ---
 
-### 🗓️ What’s next
-- Add Spring Security + JWT to services
-- Introduce Redis for caching & rate limiting patterns
-- Deploy to cloud (Fly.io/Render/AWS ECS or EKS) with a simple pipeline
+## Profiles
+
+- LeetCode: leetcode.com/u/Mir_Miftazur_Rahman
+- TryHackMe: https://tryhackme.com/p/M.Piash
+- GitHub: github.com/miftazurrahman
